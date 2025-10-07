@@ -1,0 +1,24 @@
+{
+  "name": "uploadfilews",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brojas2001/uploadFileWS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brojas2001/uploadFileWS/issues"
+  },
+  "homepage": "https://github.com/brojas2001/uploadFileWS#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
